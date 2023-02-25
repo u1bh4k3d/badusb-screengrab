@@ -1,5 +1,6 @@
 # BadUSB screen-grabber
-## Automatically creates screenshots on victims computer and sends them to imgbb api
+> Only use with permission of the owner of a device. This script is not intended for malicious usage.
+## Captures screenshot remotely every 15 seconds
 
 * Modify ssgrab.ps1 and change `API KEY` to the API key you can find on https://imgbb.com/api
 * Upload ssgrab.ps1 to pastebin
